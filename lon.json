@@ -55,7 +55,7 @@
             "port": 2087,
             "users": [
               {
-                "id": "e2e94c23-60ff-413a-c72e-91a62538398c",
+                "id": "a9f6f059-0a5c-460d-9bd6-148ee6b06923",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -70,8 +70,8 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "allowInsecure": true,
-          "serverName": "EnG.VITErBI.Space",
+          "allowInsecure": false,
+          "serverName": "eNg.vIterbI.sPaCE",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,13 +82,14 @@
         "wsSettings": {
           "path": "/",
           "headers": {
-            "Host": "EnG.VITErBI.Space"
+            "Host": "eNg.vIterbI.sPaCE"
           }
         },
         "sockopt": {
           "dialerProxy": "fragment",
           "tcpKeepAliveIdle": 100,
-          "mark": 255
+          "mark": 255,
+          "tcpNoDelay": true
         }
       },
       "mux": {
@@ -100,17 +101,17 @@
       "tag": "fragment",
       "protocol": "freedom",
       "settings": {
+        "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
-          "length": "10-20",
+          "length": "100-200",
           "interval": "10-20"
         }
       },
       "streamSettings": {
         "sockopt": {
-          "TcpNoDelay": true,
-          "tcpKeepAliveIdle": 100,
-          "mark": 255
+          "tcpNoDelay": true,
+          "tcpKeepAliveIdle": 100
         }
       }
     },
@@ -138,27 +139,6 @@
           "api"
         ],
         "outboundTag": "api",
-        "enabled": true
-      },
-      {
-        "id": "5465425548310166497",
-        "type": "field",
-        "outboundTag": "direct",
-        "domain": [
-          "domain:ir",
-          "geosite:cn"
-        ],
-        "enabled": true
-      },
-      {
-        "id": "5425034033205580637",
-        "type": "field",
-        "outboundTag": "direct",
-        "ip": [
-          "geoip:private",
-          "geoip:cn",
-          "geoip:ir"
-        ],
         "enabled": true
       },
       {
