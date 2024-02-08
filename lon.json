@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "zula.ir",
+            "address": "www.speedtest.net",
             "port": 2087,
             "users": [
               {
@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "eNg.vIterbI.sPaCE",
+          "serverName": "eng.ViTErBi.SPace",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +82,7 @@
         "wsSettings": {
           "path": "/",
           "headers": {
-            "Host": "eNg.vIterbI.sPaCE"
+            "Host": "eng.ViTErBi.SPace"
           }
         },
         "sockopt": {
