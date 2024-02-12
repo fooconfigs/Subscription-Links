@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "zula.ir",
+            "address": "discord.com",
             "port": 2087,
             "users": [
               {
@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "eNG.VITErBi.SPACe",
+          "serverName": "Eng.viTERbi.SpAcE",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +82,7 @@
         "wsSettings": {
           "path": "/",
           "headers": {
-            "Host": "eNG.VITErBi.SPACe"
+            "Host": "Eng.viTERbi.SpAcE"
           }
         },
         "sockopt": {
