@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.speedtest.net",
+            "address": "zula.ir",
             "port": 2087,
             "users": [
               {
@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "eng.ViTErBi.SPace",
+          "serverName": "eNG.VITErBi.SPACe",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +82,7 @@
         "wsSettings": {
           "path": "/",
           "headers": {
-            "Host": "eng.ViTErBi.SPace"
+            "Host": "eNG.VITErBi.SPACe"
           }
         },
         "sockopt": {
@@ -91,10 +91,6 @@
           "mark": 255,
           "tcpNoDelay": true
         }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
       }
     },
     {
@@ -104,7 +100,7 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
-          "length": "100-200",
+          "length": "10-20",
           "interval": "10-20"
         }
       },
