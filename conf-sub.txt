@@ -1,2 +1,3 @@
 vless://eecc49e1-93f1-4f00-90a8-9729ecbf3fe6@www.visa.com:8443?encryption=none&security=tls&sni=equipment-communities-acceptable-penetration.trycloudflare.com&type=ws&host=equipment-communities-acceptable-penetration.trycloudflare.com&path=%2Frgoo#argo-lon
 vless://65fdeab2-42ad-4dad-dff3-0150e153bbba@www.visa.com:8443?encryption=none&security=tls&sni=obituaries-retrieval-some-must.trycloudflare.com&type=ws&host=obituaries-retrieval-some-must.trycloudflare.com&path=%2Frgoo#argo-ger
+vless://a9f6f059-0a5c-460d-9bd6-148ee6b06923@discord.com:2087?type=ws&host=eng.viterbi.space&path=/&security=tls&fp=chrome&sni=eng.viterbi.space&fragment=8-12,1-2,tlshello&mux=8#LON-frag
