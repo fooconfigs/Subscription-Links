@@ -1,4 +1,5 @@
 {
+  "remarks": "LONfrag (IRCF Fragment)",
   "log": {
     "access": "",
     "error": "",
@@ -51,7 +52,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "discord.com",
+            "address": "zula.ir",
             "port": 2087,
             "users": [
               {
@@ -71,7 +72,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "EnG.ViTeRbI.SpAcE",
+          "serverName": "ENg.VITerbI.sPaCE",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +83,7 @@
         "wsSettings": {
           "path": "/",
           "headers": {
-            "Host": "EnG.ViTeRbI.SpAcE"
+            "Host": "ENg.VITerbI.sPaCE"
           }
         },
         "sockopt": {
@@ -106,7 +107,7 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
-          "length": "8-12",
+          "length": "1-8",
           "interval": "1-2"
         }
       },
