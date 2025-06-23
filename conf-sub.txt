@@ -6,3 +6,6 @@ vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?encrypti
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?encryption=none&security=none&type=tcp&headerType=http&host=Fast.com#Conf6
 vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@mrvip.wineston.site:1001?encryption=none&security=none&type=tcp&headerType=http#Conf7
 vless://c93fa5bd-88f6-45e5-b068-bf3d261686b8@ir.tunneled.site:5050?encryption=none&security=none&type=tcp&headerType=none#Conf8
+vless://30ef22a6-b8a0-4b15-b8b7-bb92ded87b46@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=telv2rayfree1vpn.global.ssl.fastly.net&path=%2Fv2rayfree1vpn&mode=auto#Conf9
+vless://4b81c174-7d62-4d5b-9000-fe07e0468d9d@178.239.145.148:9435?encryption=none&security=none&type=tcp&headerType=http&host=docker.com#Conf10
+vless://9da21010-6025-430a-9ce9-6096673d86d1@x3.snaapppfree.com:1360?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#Conf11
