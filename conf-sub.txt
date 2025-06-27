@@ -1,2 +1,3 @@
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVQMSIsDQogICJhZGQiOiAiMTY3LjcxLjQ0LjYwIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICIzNjYyNjM2MS0xZTRmLTQzODYtYmY1OC03ZmRiNzA0OTZmNjkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogImh0dHB1cGdyYWRlIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInNwZWVkdGVzdC5uZXQiLA0KICAicGF0aCI6ICIvaGV5IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vless://4f0169db-6f36-4e33-8a05-87212b7b1d4d@64.226.74.177:8080?encryption=none&security=none&type=httpupgrade&host=speedtest.net&path=%2Fhey#UP2
+vless://02529660-52bf-4896-951a-1857c88d1dba@167.71.44.60:47542?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=krsHuR6-NfPzTvW8uE9b_Xbjj-48yI91kLqhx4tWPUg&sid=7a6d1a&spx=%2F&type=grpc#Real3
